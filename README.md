@@ -4,7 +4,6 @@
 
 Category: Linux / SMB / Stego / Privilege Escalation
 Difficulty: Medium
-Author: @majoi
 Target: Ubuntu 20.04 / Samba 4.9.5
 
 Overview
