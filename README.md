@@ -49,7 +49,7 @@ medusa -h 192.168.99.6 -U users.txt -P /usr/share/wordlists/rockyou.txt -M smbnt
 
 Result:
 
-[+] ACCOUNT FOUND: albert / bradley1
+[+] ACCOUNT FOUND: albert / b.....1
 
 Connected via smbclient:
 
@@ -105,7 +105,7 @@ cat /root/root.txt
 # flag 2/2: [ASCII ART FLAG]
 7. Summary
 
-User credentials: albert / bradley1
+User credentials: albert / b.....1
 
 Privilege escalation: beroot setuid binary
 
